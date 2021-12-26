@@ -1,4 +1,4 @@
-package examples.users;
+package testingacademy.features;
 
 import com.intuit.karate.junit5.Karate;
 

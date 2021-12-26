@@ -1,11 +1,11 @@
-package examples;
+package testingacademy;
 
 import com.intuit.karate.Results;
 import com.intuit.karate.Runner;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-class ExamplesTest {
+class TheTestingAcademy {
 
     @Test
     void testParallel() {
